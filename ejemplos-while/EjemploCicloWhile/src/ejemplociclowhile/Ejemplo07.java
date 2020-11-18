@@ -26,7 +26,9 @@ public class Ejemplo07 {
         double promedio_final;
         double calificacion;
         boolean bandera = true;
+        
         int contador = 0;
+        
         System.out.println("Ingrese las notas de los estudiantes de su materia");
         while (bandera){
             System.out.println("Ingrese calificación número");
